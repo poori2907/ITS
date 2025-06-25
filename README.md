@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-TechSolutions Pro is a comprehensive IT services website designed to showcase professional technology solutions for businesses of all sizes. This project demonstrates modern web development practices using HTML5, CSS3, and JavaScript to create a responsive, user-friendly business website.
+TechSolutions Pro is a comprehensive IT services website designed to showcase professional technology solutions for businesses of all sizes. This project demonstrates modern web development practices using HTML, CSS, and JavaScript to create a responsive, user-friendly business website.
 
 ## Company Profile
 
@@ -136,7 +136,7 @@ ITS/
 
 ## Project Academic Context
 
-This website was developed as part of an Information Technology Systems (ITS) course project, demonstrating:
+This website was developed as part of an Industrial Training (ITS) course project, demonstrating:
 
 - Web development skills using modern technologies
 - Understanding of business website requirements
@@ -155,10 +155,10 @@ This website was developed as part of an Information Technology Systems (ITS) co
 
 ---
 
-**Created by**: [Student Name]  
-**Course**: Information Technology Systems (ITS)  
-**Institution**: [College/University Name]  
-**Date**: December 2024  
+**Created by**: Poornima Mudgal  
+**Course**: Industrial Training (ITS)  
+**Institution**: PIET- Poornima Institute of Engineering & Technology  
+**Date**: June 2025 
 **Version**: 1.0
 
 *This project demonstrates professional web development capabilities and understanding of modern IT business practices.*
